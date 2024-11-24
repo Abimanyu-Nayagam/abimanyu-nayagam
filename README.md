@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on RAG applications
-- 🌱 I’m currently learning LLMs
+- 🔭 I’m currently working on Computer Vision Applications
 - 👯 I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me: abimanyunayagam21@gmail.com
 <!--
